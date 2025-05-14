@@ -1,2 +1,3 @@
 # Autonomous-Lawn-Mower
 This project showcases a fully autonomous robotic lawn mower designed to independently maintain residential lawns up to 500 square meters.
+Developed as part of a university course on Automation and Robotics, the mower uses ultrasonic sensors for obstacle detection, a real-time path planning algorithm for navigation, and a safety-first blade control mechanism. Powered by an Arduino-based system, it intelligently adapts to various terrains while maximizing energy efficiency. Key features include automatic obstacle avoidance, blade auto-stop on obstruction, and emergency shutdown protocols. The project demonstrates a practical application of embedded systems, robotics, and automation for smart home solutions.
